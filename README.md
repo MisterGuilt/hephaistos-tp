@@ -1,4 +1,4 @@
-# first-app
+# hephaistos-tp
 
 ## Project setup
 ```
