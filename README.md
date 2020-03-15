@@ -1,4 +1,4 @@
-# hephaistos-tp
+# hephaistos-p2
 
 ## Project setup
 ```
